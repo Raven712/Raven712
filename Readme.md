@@ -16,4 +16,4 @@
 
 2022 07.06 - [Git과 Github의 기초](https://github.com/Raven712/TIL/tree/master/2일)
 
-2022 07.07 - [클론, 포크, 풀리퀘스트등](https://github.com/Raven712/TIL/tree/master/3일))
+2022 07.07 - [클론, 포크, 풀리퀘스트등](https://github.com/Raven712/TIL/tree/master/3일)
