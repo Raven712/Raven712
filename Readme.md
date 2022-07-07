@@ -12,9 +12,9 @@
 
 ## 🐶 TIL 🐶
 
-2022 07.05 - [마크다운과 CLI의 기초]([TIL/1일 at master · Raven712/TIL (github.com)](https://github.com/Raven712/TIL/tree/master/1일))
+2022 07.05 - [마크다운과_CLI의_기초]([TIL/1일 at master · Raven712/TIL (github.com)](https://github.com/Raven712/TIL/tree/master/1일))
 
-2022 07.06 - [Git과 Github의 기초]([TIL/2일 at master · Raven712/TIL (github.com)](https://github.com/Raven712/TIL/tree/master/2일))
+2022 07.06 - [Git과_Github의_기초]([TIL/2일 at master · Raven712/TIL (github.com)](https://github.com/Raven712/TIL/tree/master/2일))
 
 
 
