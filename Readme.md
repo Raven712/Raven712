@@ -12,8 +12,11 @@
 
 ## 🐶 TIL 🐶
 
-2022 07.05 - [마크다운과 CLI의 기초](https://github.com/Raven712/TIL/tree/master/1일)
+2022 07.05 - [마크다운과 CLI의 기초](https://github.com/Raven712/TIL/tree/master/첫주/1일)
 
-2022 07.06 - [Git과 Github의 기초](https://github.com/Raven712/TIL/tree/master/2일)
+2022 07.06 - [Git과 Github의 기초](https://github.com/Raven712/TIL/tree/master/첫주/2일)
 
-2022 07.07 - [클론, 포크, 풀리퀘스트등](https://github.com/Raven712/TIL/tree/master/3일)
+2022 07.07 - [클론, 포크, 풀리퀘스트등](https://github.com/Raven712/TIL/tree/master/첫주/3일)
+
+2022 07.08 - [취업특강+채용사이트 가입과 기업요구사항 분석](https://github.com/Raven712/TIL/tree/master/첫주/4일)
+
