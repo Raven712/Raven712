@@ -20,5 +20,6 @@
 
 2022 07.08 - [취업특강+채용사이트 가입과 기업요구사항 분석](https://github.com/Raven712/TIL/tree/master/첫주/4일)
 
-2022 07.09 - [파이썬 기초](https://github.com/Raven712/TIL/tree/master/둘째주/5일) +[코드업 문제1~22번](https://github.com/Raven712/python)
+2022 07.11 - [파이썬 기초](https://github.com/Raven712/TIL/tree/master/둘째주/5일) +[코드업 문제1~22번](https://github.com/Raven712/python)
 
+2022 07.12 - [파이썬 조건문과 반복문](https://github.com/Raven712/TIL/tree/master/둘째주/6일) + [코드업 문제 23~41번](https://github.com/Raven712/TIL/tree/master/둘째주/6일/코드업문제%202일차)
