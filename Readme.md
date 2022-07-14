@@ -25,3 +25,5 @@
 2022 07.12 - [파이썬 조건문과 반복문](https://github.com/Raven712/TIL/tree/master/둘째주/6일) + [코드업 문제 23~41번](https://github.com/Raven712/TIL/tree/master/둘째주/6일/코드업문제%202일차)
 
 2022 07.13 - [파이썬 함수와 실습문제](https://github.com/Raven712/TIL/tree/master/둘째주/7일) + [코드업 문제 42~64번](https://github.com/Raven712/TIL/tree/master/둘째주/7일/코드업문제3일차)
+
+2022 07.14 - [데이터구조(메서드)와 실습문제](https://github.com/Raven712/TIL/tree/master/둘째주/8일) + [코드업 문제 65~78번](https://github.com/Raven712/TIL/tree/master/둘째주/8일/코드업문제)
