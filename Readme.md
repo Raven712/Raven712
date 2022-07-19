@@ -31,3 +31,6 @@
 2022 07.15 - [모듈, 프로젝트(다 못했음..)](https://github.com/Raven712/TIL/tree/master/둘째주/9일)
 
 2022 07.18 - [에러와 에러수정 예제](https://github.com/Raven712/TIL/tree/master/셋째주/10일) + [코드업 문제 79~95번](https://github.com/Raven712/TIL/tree/master/셋째주/10일/코드업문제)
+
+2022 07.19 - [OOP(객체 지향 프로그래밍)](https://github.com/Raven712/TIL/tree/master/셋째주/11일) + [SW Expert Academy 난이도 D1 8개](https://github.com/Raven712/TIL/tree/master/셋째주/11일/SWEA)
+
