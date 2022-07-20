@@ -34,3 +34,15 @@
 
 2022 07.19 - [OOP(객체 지향 프로그래밍)](https://github.com/Raven712/TIL/tree/master/셋째주/11일) + [SW Expert Academy 난이도 D1 8개](https://github.com/Raven712/TIL/tree/master/셋째주/11일/SWEA)
 
+2022 07.20 - [OOP(객체 지향 프로그래밍 2)](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)) +[SW Expert Academy 난이도 D1 11개 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)/SWEA)
+
+
+
+***
+
+
+
+## 📃 한줄 일기 📃
+
+2022 07.20 - D2를 풀었다! 파이썬이 객체지향 프로그래밍인걸 알아서, 추상화를 위해 주석을 달기 시작했다!
+
