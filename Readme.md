@@ -36,7 +36,7 @@
 
 2022 07.20 - [OOP(객체 지향 프로그래밍 2)](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)) +[SW Expert Academy 난이도 D1 11개 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)/SWEA)
 
-
+2022 07.21 - [파이썬 마지막](https://github.com/Raven712/TIL/tree/master/셋째주/13일(파이썬 마지막)) + [SW Expert Academy 난이도 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/13일(파이썬 마지막)/SWEA)
 
 ***
 
@@ -46,3 +46,4 @@
 
 2022 07.20 - D2를 풀었다! 파이썬이 객체지향 프로그래밍인걸 알아서, 추상화를 위해 주석을 달기 시작했다!
 
+2022 07.21 - 중첩된 for문(행렬형태)이 나오는건 너무 어려워서 풀지못했다. D2 문제 하나에 1시간은 쓰는것 같다.
