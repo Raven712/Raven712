@@ -40,6 +40,8 @@
 
 2022 07.22 - [프로젝트(TMDB API 활용, 망함)](https://github.com/Raven712/01-PJT-02/tree/main/3회차/김기명) + [SW Expert Academy 난이도 D2 2개](https://github.com/Raven712/TIL/tree/master/셋째주/14일(프로젝트)/swea)
 
+2022 07.24 - [비전공자를 위한 IT 입문 강의](https://github.com/Raven712/TIL/tree/master/셋째주/15일(MLP인강))
+
 ## 📃 한줄 일기 📃
 
 2022 07.20 - D2를 풀었다! 파이썬이 객체지향 프로그래밍인걸 알아서, 추상화를 위해 주석을 달기 시작했다!
@@ -48,3 +50,4 @@
 
 2022 07.22 - API 활용 프로젝트를 했지만 망한 것 같다.
 
+2022 07.24 - 비전공자 IT입문 강의를 들으니 미세하게나마 API와 JSON에 대한 이해도가 늘었다.
