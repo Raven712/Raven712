@@ -44,5 +44,6 @@
 
 2022 07.25 - [알고리즘 1일차, 백준문제 다수](https://github.com/Raven712/TIL/tree/master/넷째주/16일차(알고리즘1일))
 
-2022 07.26 - [알고리즘 2일차, 백준문제](https://github.com/Raven712/TIL/tree/master/넷째주/17일차(알고리즘2일))
+2022 07.26 - [알고리즘 2일차(리스트), 백준문제](https://github.com/Raven712/TIL/tree/master/넷째주/17일차(알고리즘2일))
 
+2022 07.27 - [알고리즘 3일차(문자열), 백준문제 브론즈2 ~ 실버5](https://github.com/Raven712/TIL/tree/master/넷째주/18일차(알고리즘3일))
