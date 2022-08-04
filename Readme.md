@@ -43,7 +43,7 @@
 
 2022 07.20 - [OOP(객체 지향 프로그래밍 2)](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)) +[SW Expert Academy 난이도 D1 11개 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/12일(OOP2)/SWEA)
 
-2022 07.21 - [파이썬 마지막](https://github.com/Raven712/TIL/tree/master/셋째주/13일 - 파이썬 마지막) + [SW Expert Academy 난이도 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/13일 - 파이썬 마지막/SWEA)
+2022 07.21 - [파이썬 마지막](https://github.com/Raven712/TIL/tree/master/셋째주/13일%20-%20파이썬%20마지막) + [SW Expert Academy 난이도 D2 5개](https://github.com/Raven712/TIL/tree/master/셋째주/13일%20-%20파이썬%20마지막/SWEA)
 
 2022 07.22 - [프로젝트(TMDB API 활용, 망함)](https://github.com/Raven712/01-PJT-02/tree/main/3회차/김기명) + [SW Expert Academy 난이도 D2 2개](https://github.com/Raven712/TIL/tree/master/셋째주/14일(프로젝트)/swea)
 
@@ -59,8 +59,9 @@
 
 2022 07.29 - [파이썬 내장함수 정리](https://github.com/Raven712/TIL/tree/master/넷째주/20일차), [알고리즘 모의고사 SWEA D2~3](https://github.com/Raven712/01-PJT-03/tree/master/3회차/김기명)
 
-2022 08.01 - [스택, 큐, 백준문제 브론즈3 ~ 실버4](https://github.com/Raven712/TIL/tree/master/5주/21일-스택%2C 큐)
+2022 08.01 - [스택, 큐, 백준문제 브론즈3 ~ 실버4](https://github.com/Raven712/TIL/tree/master/5주/21일-스택%2C%20큐)
 
 2022 08.02 - [힙, 셋, 백준문제 브론즈2 ~ 실버3](https://github.com/Raven712/TIL/tree/master/5주/22일-힙%2C%20셋)
 
-2022 08.03 - [이차원 리스트, 백준 브론즈3~실버4](https://github.com/Raven712/TIL/tree/master/5주/23일-이차원 리스트)
+2022 08.03 - [이차원 리스트, 백준 브론즈3~실버4](https://github.com/Raven712/TIL/tree/master/5주/23일-이차원%20리스트)
+
