@@ -65,3 +65,4 @@
 
 2022 08.03 - [이차원 리스트, 백준 브론즈3~실버4](https://github.com/Raven712/TIL/tree/master/5주/23일-이차원%20리스트)
 
+2022 08.04 - [이차원 리스트2, 백준 브론즈5~실버5](https://github.com/Raven712/TIL/tree/master/5주/24일-이차원%20리스트2)
