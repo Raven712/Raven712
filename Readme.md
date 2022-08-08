@@ -68,3 +68,5 @@
 2022 08.04 - [이차원 리스트2, 백준 브론즈5~실버5](https://github.com/Raven712/TIL/tree/master/5주/24일-이차원%20리스트2)
 
 2022 08.06,07 - [그냥 복습, 기타 문제풀이](https://github.com/Raven712/TIL/tree/master/5주/26일(토요일)) [+ @](https://github.com/Raven712/TIL/tree/master/5주/27일(일요일))
+
+2022 08.08 - [이차원 리스트 회전, 완전탐색(브루트 포스, 델타 탐색)](https://github.com/Raven712/TIL/tree/master/6주/28일)
