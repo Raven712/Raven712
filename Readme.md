@@ -69,6 +69,8 @@
 
 2022 08.06,07 - [그냥 복습, 기타 문제풀이](https://github.com/Raven712/TIL/tree/master/5주/26일(토요일)) [+ @](https://github.com/Raven712/TIL/tree/master/5주/27일(일요일))
 
-2022 08.08 - [이차원 리스트 회전, 완전탐색(브루트 포스, 델타 탐색)](https://github.com/Raven712/TIL/tree/master/6주/28일(회전, 브루트포스, 델타탐색))
+2022 08.08 - [이차원 리스트 회전, 완전탐색(브루트 포스, 델타 탐색)](https://github.com/Raven712/TIL/tree/master/6주/28일(회전%2C%20브루트포스%2C%20델타탐색))
 
 2022 08.09 - [그래프, 문제풀이](https://github.com/Raven712/TIL/tree/master/6주/29일(그래프))
+
+2022 08.10 - [DFS, 문제풀이](https://github.com/Raven712/TIL/tree/master/6주/30일(DFS))
