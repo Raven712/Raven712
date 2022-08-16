@@ -82,3 +82,5 @@
 2022 08.14 - [DFS 못 푼 문제 복습 2](https://github.com/Raven712/TIL/tree/master/6주/33일(복습))
 
 2022 08.15 - [DFS 복습+추가학습, BFS 정리](https://github.com/Raven712/TIL/tree/master/6주/34일(DFS%2C%20BFS))
+
+2022 08.16 - [데이터베이스 시작, DFS BFS 복습]([TIL/7주/35일 at master · Raven712/TIL (github.com)](https://github.com/Raven712/TIL/tree/master/7주/35일))
