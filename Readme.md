@@ -87,3 +87,4 @@
 
 2022 08.17 - [DB 2일차, DFS BFS 복습](https://github.com/Raven712/TIL/tree/master/7주/36일(DB%202일%2C%20DFS%2CBFS))
 
+2022 08.18 - [DB 3일차, BFS 복습 - 골드문제 첫 해결](https://github.com/Raven712/TIL/tree/master/7주/37일)
