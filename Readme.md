@@ -107,3 +107,13 @@
 
 2022.09.12 - [부트스트랩 입문](https://github.com/Raven712/TIL/tree/master/11주/53일)
 
+2022.09.15 - [JavaScript 입문](https://github.com/Raven712/TIL/tree/master/11주/55일)
+
+------
+
+2022.12.07 - 이후 열심히 하지않아 기록을 하지않았습니다,
+
+다시 열심히 공부해서 좋은모습 보이도록 하겠습니다!
+
+------
+
