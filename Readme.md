@@ -111,10 +111,4 @@
 
 ------
 
-2022.12.07 - 이후 열심히 하지않아 기록을 하지않았습니다,
-
-다시 열심히 공부해서 좋은모습 보이도록 하겠습니다! (12-1월안에 반드시 과정에서 배운 모든 내용을 소화할 수 있도록 하겠습니다)
-
-------
-
-2022.12.07 - [장고 url, views, template 기초](https://github.com/Raven712/TIL/tree/master/12월 첫째주/12.07)
+2023.03.09 - [장고 url, views, template 기초](https://github.com/Raven712/TIL/tree/master/3월복귀/2023.03.09)
