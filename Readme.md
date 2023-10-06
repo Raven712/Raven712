@@ -114,3 +114,7 @@
 2023.03.09 - [장고 url, views, template 기초](https://github.com/Raven712/TIL/tree/master/3월복귀/2023.03.09)
 
 2023.03.21 - [장고 앱이 여러개일때 관리법 등 기초](https://github.com/Raven712/TIL/tree/master/3월복귀/2023.03.21)
+
+***
+
+2023.10.06 - [DB CRUD(CR)](https://github.com/Raven712/TIL/tree/master/10월/DB)
